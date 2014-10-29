@@ -1,0 +1,10 @@
+.DS_Store
+nbproject
+*.tmproj
+*.swp~
+composer.json
+composer.lock
+composer.phar
+.travis.yml
+#intellij
+.idea
